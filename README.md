@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitlkr7
+- 👋 Hi, I’m  Rohit kumar from bihar, munger (@rohitlkr7)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development at prepleaf by masai
 - 💞️ I’m looking to collaborate on ...
