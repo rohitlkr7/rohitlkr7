@@ -2,7 +2,8 @@
 ![68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966](https://github.com/user-attachments/assets/dfb38ac6-5025-4f28-9b90-000cb998debe)
   < h2 align="center">
   <img width="200" height="200" 
-    src="![git gif add](https://github.com/user-attachments/assets/fc3d976d-23f5-4bd1-887c-f590707a3868)" alt="my banner">
+    src=" ![git gif add](https://github.com/user-attachments/assets/d8220f1d-96d1-4b62-b63c-a05e73a31d4c)
+ " alt="my banner">
   </h2>
 
                                                               
