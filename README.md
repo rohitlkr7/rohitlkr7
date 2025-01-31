@@ -1,12 +1,16 @@
 
 ![68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966](https://github.com/user-attachments/assets/dfb38ac6-5025-4f28-9b90-000cb998debe)
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img width=”200" height=”200"  src=”![git gif add](https://github.com/user-attachments/assets/fc3d976d-23f5-4bd1-887c-f590707a3868)
+" alt=”my banner”>
 
-                                                               Hi 👋, I'm Rohit kumar 
-                                                        A passionate developer | Content Creator
+                                                              
+  <h2 align="center">
+     Hi 👋, I'm Rohit kumar 
+I'm a Full-Stack Web Developer 💻 MERN
+</h2> 
 
-![git gif add](https://github.com/user-attachments/assets/256add17-9fc0-4d04-a34e-c4af37c7590b)
+
 
 
 
