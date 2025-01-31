@@ -1,7 +1,7 @@
 
 ![68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966](https://github.com/user-attachments/assets/dfb38ac6-5025-4f28-9b90-000cb998debe)
 
-                                                               Hi 👋, I'm Rohit kumar
+                                                              <h1> Hi 👋, I'm Rohit kumar </h1>
                                                         A passionate developer | Content Creator
 - 👋 Hi, I’m  Rohit kumar from bihar, munger (@rohitlkr7)
 - 👀 I’m interested in web development
