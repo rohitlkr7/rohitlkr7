@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile. I'm a passionate developer skilled in full-stack web development and always eager to learn new technologies.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 - **Frontend:**  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
